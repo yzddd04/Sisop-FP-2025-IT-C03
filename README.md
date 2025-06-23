@@ -25,7 +25,8 @@ Binar Najmuddin Mahya | 5027241101
 
 > Insert testcase... (contoh dibawah) // hapus line ini
 
-Memahami race condition pada operasi check-then-act. Program membuat 2 thread; tiap thread mencoba mengambil satu-satunya sumber daya yang tersedia dari variabel global stok (nilai awal 1). Jika tanpa mutex, kedua thread bisa lolos pengecekan dan sama-sama mengambil sumber daya, menghasilkan nilai akhir stok menjadi -1.
+Thread Counter (11)
+Buatlah program yang mendemonstrasikan penggunaan thread dan mutex untuk menghindari race condition. Program harus membuat tiga thread, di mana masing-masing thread bertugas menambah nilai sebuah variabel global counter sebanyak N kali. Gunakan mutex untuk memastikan hanya satu thread yang dapat mengubah nilai counter pada satu waktu. Setelah seluruh thread selesai, program harus mencetak nilai akhir counter dan memastikan nilainya tepat 3×N. Jelaskan juga apa yang terjadi jika mutex tidak digunakan (counter bisa salah).
 
 ### Catatan
 
