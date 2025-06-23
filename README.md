@@ -26,6 +26,7 @@ Binar Najmuddin Mahya | 5027241101
 > Insert testcase... (contoh dibawah) // hapus line ini
 
 Thread Counter (11)
+
 Buatlah program yang mendemonstrasikan penggunaan thread dan mutex untuk menghindari race condition. Program harus membuat tiga thread, di mana masing-masing thread bertugas menambah nilai sebuah variabel global counter sebanyak N kali. Gunakan mutex untuk memastikan hanya satu thread yang dapat mengubah nilai counter pada satu waktu. Setelah seluruh thread selesai, program harus mencetak nilai akhir counter dan memastikan nilainya tepat 3×N. Jelaskan juga apa yang terjadi jika mutex tidak digunakan (counter bisa salah).
 
 ### Catatan
