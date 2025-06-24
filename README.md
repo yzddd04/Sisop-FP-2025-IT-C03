@@ -28,7 +28,7 @@ Pengerjaan soal final project sesuai dengan modul yang telah diajarkan.
 | --------------------- | ---------- |
 | Tasya Aulia Darmawan  | 5027241009 |
 | Ahmad Yazid Arifuddin | 5027241040 |
-| Zahra Khaalishah      | 5027241070 |
+| Zahra Khaalishah      | 5027241070 | 
 | Binar Najmuddin Mahya | 5027241101 |
 
 ## Deskripsi Soal
