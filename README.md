@@ -139,7 +139,11 @@ Tanpa mutex: Nilai akhir counter tidak dapat dijamin sesuai ekspektasi (race con
 Dengan mutex: Nilai akhir counter sesuai dengan nilai yang diharapkan (3 * N), memastikan konsistensi data bersama.
 
 **Video Menjalankan Program**
-...
+
+
+https://github.com/user-attachments/assets/6d005c1f-d968-4f15-a89b-1cb20a5491f0
+
+
 
 ## Daftar Pustaka
 
