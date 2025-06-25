@@ -143,8 +143,5 @@ Dengan mutex: Nilai akhir counter sesuai dengan nilai yang diharapkan (3 * N), m
 
 ## Daftar Pustaka
 
-The Open Group Base Specifications Issue 7 – pthreads
+Silberschatz, A., Galvin, P. B., & Gagne, G. (2011). Operating System Concepts Essentials (1st ed.). Wiley.
 
-POSIX Threads Programming – https://pubs.opengroup.org/
-
-Race Conditions and Mutexes – https://www.cs.ucr.edu/~fares/
